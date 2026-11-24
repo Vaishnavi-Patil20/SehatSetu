@@ -1,0 +1,28 @@
+text,category
+"I have a fever and need a general doctor",general_medical
+"Which doctor should I see for a persistent cough",general_medical
+"I need a routine consultation for tiredness",general_medical
+"I am pregnant and need prenatal care",maternal_child
+"My child has a fever and I need pediatric guidance",maternal_child
+"I need support during pregnancy",maternal_child
+"I have been feeling anxious and overwhelmed",mental_health
+"I want help with my mental wellbeing",mental_health
+"I have persistent sadness and want professional support",mental_health
+"Where can I get a routine health screening",preventive
+"I want advice on preventive checkups",preventive
+"I need a wellness screening",preventive
+"I need help managing my diabetes follow up",chronic
+"I have hypertension and need ongoing care",chronic
+"I need a follow up for my chronic condition",chronic
+"What is this medicine used for",medication
+"Can you give me information about this over the counter medicine",medication
+"I want to understand the instructions on a medicine label",medication
+"I need a skin specialist",specialist
+"Which specialist treats joint problems",specialist
+"I want to consult a heart specialist",specialist
+"I have severe chest pain and trouble breathing",emergency
+"I cannot breathe and feel like I may faint",emergency
+"Someone is unconscious and needs urgent medical help",emergency
+"I am not sure what healthcare service I need",other
+"Help me find the right care pathway",other
+"I have a healthcare question and do not know where to start",other
